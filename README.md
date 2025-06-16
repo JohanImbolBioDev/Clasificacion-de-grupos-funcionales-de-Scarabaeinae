@@ -2,11 +2,11 @@
 
 Los Scarabaeinae constituyen una subfamilia de escarabajos de la familia Scarabaeidae, ampliamente reconocidos por su hábito coprófago. Estos insectos no solo se alimentan de materia fecal, sino que además utilizan el estiércol como sustrato para el desarrollo de sus crías. En función del uso que hacen del recurso, ya sea alimenticio, reproductivo o constructivo. Los escarabajos coprófagos han evolucionado hacia estrategias conductuales diversas, que impactan directamente en la descomposición del estiércol y en la regulación de otros organismos que dependen del mismo recurso, como las moscas coprófagas. El modo en que los adultos manipulan, entierran o nidifican en el estiércol permite clasificarlos en grupos funcionales, y han sido tradicionalmente agrupados en 3 grupos (Halffter & Edmonds, 1982). Estos grupos no se basan en parentesco filogenético, sino en la función ecológica que desempeñan. Así, se distinguen:
 
-Paracópridos: excavan túneles verticales u oblicuos justo debajo del estiércol y allí lo entierran, formando cámaras de cría. Pueden hacerlo rápidamente (entierro en horas) o lentamente (días o semanas).
+**Paracópridos:** excavan túneles verticales u oblicuos justo debajo del estiércol y allí lo entierran, formando cámaras de cría. Pueden hacerlo rápidamente (entierro en horas) o lentamente (días o semanas).
 
-Telecópridos: separan fragmentos de estiércol, los moldean en bolas y los transportan horizontalmente a cierta distancia antes de enterrarlos. Esta estrategia favorece la dispersión espacial del estiércol.
+**Telecópridos:** separan fragmentos de estiércol, los moldean en bolas y los transportan horizontalmente a cierta distancia antes de enterrarlos. Esta estrategia favorece la dispersión espacial del estiércol.
 
-Endocópridos: nidifican dentro del mismo excremento, sin desplazarlo, formando las estructuras reproductivas en el interior del estiércol en descomposición.
+**Endocópridos:** nidifican dentro del mismo excremento, sin desplazarlo, formando las estructuras reproductivas en el interior del estiércol en descomposición.
 
 Este repositorio ofrece un modelo de máquinas de soporte vectorial para clasificar el grupo funcional utilizando 8 medidas morfométricas lineales:
 
