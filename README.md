@@ -1,4 +1,26 @@
 # Clasificación de grupos funcionales de Scarabaeinae (Coleoptera: Scarabeidae) de Colombia mediante Máquinas de Soporte Vectorial
+
+Los Scarabaeinae constituyen una subfamilia de escarabajos de la familia Scarabaeidae, ampliamente reconocidos por su hábito coprófago. Estos insectos no solo se alimentan de materia fecal, sino que además utilizan el estiércol como sustrato para el desarrollo de sus crías. En función del uso que hacen del recurso, ya sea alimenticio, reproductivo o constructivo. Los escarabajos coprófagos han evolucionado hacia estrategias conductuales diversas, que impactan directamente en la descomposición del estiércol y en la regulación de otros organismos que dependen del mismo recurso, como las moscas coprófagas. El modo en que los adultos manipulan, entierran o nidifican en el estiércol permite clasificarlos en grupos funcionales, y han sido tradicionalmente agrupados en 3 grupos (Halffter & Edmonds, 1982). Estos grupos no se basan en parentesco filogenético, sino en la función ecológica que desempeñan. Así, se distinguen:
+
+Paracópridos: excavan túneles verticales u oblicuos justo debajo del estiércol y allí lo entierran, formando cámaras de cría. Pueden hacerlo rápidamente (entierro en horas) o lentamente (días o semanas).
+
+Telecópridos: separan fragmentos de estiércol, los moldean en bolas y los transportan horizontalmente a cierta distancia antes de enterrarlos. Esta estrategia favorece la dispersión espacial del estiércol.
+
+Endocópridos: nidifican dentro del mismo excremento, sin desplazarlo, formando las estructuras reproductivas en el interior del estiércol en descomposición.
+
+Este repositorio ofrece un modelo de máquinas de soporte vectorial para clasificar el grupo funcional utilizando 8 medidas morfométricas lineales:
+
+1\. Ancho del élitro  
+2\. Largo del élitro  
+3\. Largo del cuerpo  
+4\. Ancho del cuerpo  
+5\. Largo del fémur anterior  
+6\. Largo de la tibia anterior  
+7\. Largo del fémur posterior  
+8\. Largo de la tibia posterior
+
+El ejemplo de como usar este modelo se encuentra en example.py.
+
 ## Referencias
 - Abdi, H., & Williams, L. J. (2010). Principal component analysis. Wiley Interdisciplinary Reviews: Computational Statistics, 2(4), 433–459. https://doi.org/10.1002/wics.101
 - Chang, C.-C., & Lin, C.-J. (2022). LIBSVM: A Library for Support Vector Machines. https://www.csie.ntu.edu.tw/~cjlin/papers/libsvm.pdf
